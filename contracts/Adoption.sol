@@ -4,8 +4,8 @@ pragma solidity >=0.4.21 <0.7.0;
 contract Adoption{
 
     address[16] public adopters;
-    uint public petPrice = 50000000000000000000;
-    address payable public dealer = 0x3ce40352eEa107917704Fb2F769e96B26c68bc6f;
+    uint public petPrice = put your own price here;
+    address payable public dealer = put your own address here[;
 
     function adopt(uint petId) public payable returns (uint){
         if(petId >= 0 && petId<=15)
