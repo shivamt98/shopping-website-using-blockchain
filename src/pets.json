@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Tan-top",
+    "picture": "images/f-p-1.jpg",
+    "Size": "S",
+    "color": "red,blue",
+    "price": "50"
+  },
+  {
+    "id": 1,
+    "name": "Top-shirt",
+    "picture": "images/f-p-2.jpg",
+    "Size": "XL",
+    "color": "green,blue",
+    "price": "50"
+  },
+  {
+    "id": 2,
+    "name": "Shirt",
+    "picture": "images/f-p-3.jpg",
+    "Size": "S",
+    "color": "green,blue,red",
+    "price": "50"
+  },
+  {
+    "id": 3,
+    "name": "Turtle-Neck",
+    "picture": "images/f-p-4.jpg",
+    "Size": "S",
+    "color": "green,blue,red",
+    "price": "50"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/f-p-5.jpg",
+    "Size": "Xl",
+    "color": "green,blue,red,yellow",
+    "price": "50"
+  },
+  {
+    "id": 5,
+    "name": "Tan-Top",
+    "picture": "images/f-p-1.jpg",
+    "Size": "S",
+    "color": "green,blue,red",
+    "price": "50"
+  },
+  {
+    "id": 6,
+    "name": "Skinny-jeans",
+    "picture": "images/s-product-1.jpg",
+    "Size": "S",
+    "color": "orange,green,blue,red",
+    "price": "50"
+  },
+  {
+    "id": 7,
+    "name": "Shirt",
+    "picture": "images/f-p-3.jpg",
+    "Size": "L",
+    "color": "green,blue,red",
+    "price": "50"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/s-product-s-3.jpg",
+    "Size": "S",
+    "color": "blue",
+    "price": "50"
+  },
+  {
+    "id": 9,
+    "name": "Levis",
+    "picture": "images/s-product-s-4.jpg",
+    "Size": "S",
+    "color": "blue",
+    "price": "50"
+  },
+  {
+    "id": 10,
+    "name": "Coat",
+    "picture": "images/f-p-5.jpg",
+    "Size": "M",
+    "color": "green,blue,red",
+    "price": "50"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/f-p-1.jpg",
+    "Size": "XXL",
+    "color": "green,blue,red,yellow",
+    "price": "50"
+  },
+  {
+    "id": 12,
+    "name": "Full-sleves",
+    "picture": "images/f-p-4.jpg",
+    "Size": "M",
+    "color": "green,blue,red",
+    "price": "50"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/f8.jpg",
+    "Size": "L",
+    "color": "green",
+    "price": "50"
+  },
+  {
+    "id": 14,
+    "name": "Crop",
+    "picture": "images/f9.jpg",
+    "Size": "S",
+    "color": "green,blue,red,pink",
+    "price": "50"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/f-p-5.jpg",
+    "Size": "M",
+    "color": "green,blue,red",
+    "price": "50"
+  }
+]
